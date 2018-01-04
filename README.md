@@ -11,8 +11,6 @@ Read more at: https://www.dezyre.com/article/what-is-machine-learning-and-how-it
 
 In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
 
-- Linear and Logistic Regression, KNN, 
-
 Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables and clustering the data based on relationships among the variables in the data
 
 
