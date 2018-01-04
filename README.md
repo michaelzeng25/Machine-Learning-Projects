@@ -56,3 +56,13 @@ Random forests are an ensemble learning method for classification, regression an
 ![rf](https://user-images.githubusercontent.com/22607215/34583995-fb1bc90a-f167-11e7-8f2a-750fa77b9368.png)
 
 
+# Support Vector Machine (SVM)
+
+A supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis.
+
+![svm](https://user-images.githubusercontent.com/22607215/34584194-d0669b62-f168-11e7-8e8c-bdbaad7b10ef.gif)
+
+
+
+
+
