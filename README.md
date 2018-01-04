@@ -61,6 +61,15 @@ A supervised learning models with associated learning algorithms that analyze da
 ![svm](https://user-images.githubusercontent.com/22607215/34584194-d0669b62-f168-11e7-8e8c-bdbaad7b10ef.gif)
 
 
+# Natural Language Processing (NLP)
+
+It is a field of computer science, artificial intelligence concerned with the interactions between computers and human (natural) languages, and, in particular, concerned with programming computers to fruitfully process large natural language data.
+
+# Principal component Analysis (PCA)
+It is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. 
 
 
+# Recommander System
+
+A subclass of information filtering system that seeks to predict the "rating" or "preference" that a user would give to an item.
 
